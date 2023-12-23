@@ -1,0 +1,11 @@
+C:\Users\PHPM\Source\Repos\Ativiidade03\Ativiidade03\bin\Debug\Ativiidade03.exe.config
+C:\Users\PHPM\Source\Repos\Ativiidade03\Ativiidade03\bin\Debug\Ativiidade03.exe
+C:\Users\PHPM\Source\Repos\Ativiidade03\Ativiidade03\bin\Debug\Ativiidade03.pdb
+C:\Users\PHPM\Source\Repos\Ativiidade03\Ativiidade03\obj\Debug\Ativiidade03.csproj.AssemblyReference.cache
+C:\Users\PHPM\Source\Repos\Ativiidade03\Ativiidade03\obj\Debug\Ativiidade03.csproj.SuggestedBindingRedirects.cache
+C:\Users\PHPM\Source\Repos\Ativiidade03\Ativiidade03\obj\Debug\Ativiidade03.Form1.resources
+C:\Users\PHPM\Source\Repos\Ativiidade03\Ativiidade03\obj\Debug\Ativiidade03.Properties.Resources.resources
+C:\Users\PHPM\Source\Repos\Ativiidade03\Ativiidade03\obj\Debug\Ativiidade03.csproj.GenerateResource.cache
+C:\Users\PHPM\Source\Repos\Ativiidade03\Ativiidade03\obj\Debug\Ativiidade03.csproj.CoreCompileInputs.cache
+C:\Users\PHPM\Source\Repos\Ativiidade03\Ativiidade03\obj\Debug\Ativiidade03.exe
+C:\Users\PHPM\Source\Repos\Ativiidade03\Ativiidade03\obj\Debug\Ativiidade03.pdb

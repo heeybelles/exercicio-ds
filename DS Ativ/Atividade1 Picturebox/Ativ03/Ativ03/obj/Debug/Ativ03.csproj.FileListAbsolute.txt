@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Ativ03\Ativ03\bin\Debug\Ativ03.exe.config
+C:\Users\User\source\repos\Ativ03\Ativ03\bin\Debug\Ativ03.exe
+C:\Users\User\source\repos\Ativ03\Ativ03\bin\Debug\Ativ03.pdb
+C:\Users\User\source\repos\Ativ03\Ativ03\obj\Debug\Ativ03.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ativ03\Ativ03\obj\Debug\Ativ03.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Ativ03\Ativ03\obj\Debug\Ativ03.Form1.resources
+C:\Users\User\source\repos\Ativ03\Ativ03\obj\Debug\Ativ03.Properties.Resources.resources
+C:\Users\User\source\repos\Ativ03\Ativ03\obj\Debug\Ativ03.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Ativ03\Ativ03\obj\Debug\Ativ03.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ativ03\Ativ03\obj\Debug\Ativ03.exe
+C:\Users\User\source\repos\Ativ03\Ativ03\obj\Debug\Ativ03.pdb
